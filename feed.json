@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WARS TCG PC",
+    "description": "",
+    "home_page_url": "https://warstcg.org",
+    "feed_url": "https://warstcg.org/feed.json",
+    "user_comment": "",
+    "icon": "https://warstcg.org/media/website/PC_Logo.webp",
+    "author": {
+        "name": "JS"
+    },
+    "items": [
+    ]
+}

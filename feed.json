@@ -10,5 +10,19 @@
         "name": "JS"
     },
     "items": [
+        {
+            "id": "https://warstcg.org/getting-started/",
+            "url": "https://warstcg.org/getting-started/",
+            "title": "Getting Started",
+            "summary": "Welcome! This is a small start at making a centralized Players Committee&hellip;",
+            "content_html": "<p>Welcome!</p>\n<p>This is a small start at making a centralized Players Committee launch.  At this time, it's just myself.  I'm hoping to coordinate with a few of the folks across Facebook and Discord to align everyone's projects and strengths so that we all move forward as a group.</p>\n<p>I'll work on updating resources slowly to get new players up and running.</p>\n<p>I was able to update the awesome database from matthalm on discord (<a href=\"https://github.com/matthalm/warsdb\">matthalm/warsdb: A barebones filterable database for Decipher's WARS TCG</a>) and update Set 3 with the fan completed Edge of Sword set that Gady on Facebook made.</p>\n<p>An initial Google Map Pin player locator has been created as well!</p>",
+            "author": {
+                "name": "JS"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-28T22:26:49-08:00",
+            "date_modified": "2026-02-28T22:26:49-08:00"
+        }
     ]
 }

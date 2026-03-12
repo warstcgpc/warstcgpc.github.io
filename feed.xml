@@ -3,12 +3,179 @@
     <title>WARS TCG PC</title>
     <link href="https://warstcg.org/feed.xml" rel="self" />
     <link href="https://warstcg.org" />
-    <updated>2026-03-11T16:00:45-07:00</updated>
+    <updated>2026-03-12T10:50:07-07:00</updated>
     <author>
         <name>JS</name>
     </author>
     <id>https://warstcg.org</id>
 
+    <entry>
+        <title>Format: 2 Player &quot;Minneapolis&quot; Cube Draft</title>
+        <author>
+            <name>JS</name>
+        </author>
+        <link href="https://warstcg.org/format-2-player-minneapolis-cube-draft/"/>
+        <id>https://warstcg.org/format-2-player-minneapolis-cube-draft/</id>
+        <media:content url="https://warstcg.org/media/posts/29/Incursion-Independent-Maverick-Bot.webp" medium="image" />
+            <category term="draft"/>
+            <category term="deckbuilding"/>
+
+        <updated>2026-03-12T10:10:39-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://warstcg.org/media/posts/29/Incursion-Independent-Maverick-Bot.webp" alt="" />
+                    Minneapolis Draft is an alternate Cube Draft designed for 2 players to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://warstcg.org/media/posts/29/Incursion-Independent-Maverick-Bot.webp" class="type:primaryImage" alt="" /></p>
+                <p>Minneapolis Draft is an alternate Cube Draft designed for 2 players to draft with some amount of hidden information that also involves navigating drafting packs against the other player that emulates a traditional booster draft better than other two-player draft formats..  This format uses a Cube divided into 8 Packs of 7 Cards each per player (112 Cards).</p>
+<h3><span style="color: #1b4bc7;">Creating the Cube:</span></h3>
+<ul>
+<li>Cube of Cards: 112 Cards
+<ul>
+<li>Divide these into 7 card packs</li>
+<li>Typical Rare distribution would be 1 per pack</li>
+<li>Include a Location per pack</li>
+</ul>
+</li>
+<li>Optional - set rules for the rare and uncommon quantities
+<ul>
+<li>Have each player create a 56 card pool</li>
+<li>Each player divides their pool into 8 Packs of 7 Cards</li>
+</ul>
+</li>
+<li>As in standard draft, a Group pool of <strong>Unlimited</strong> Locations should be available.</li>
+</ul>
+<h3><span style="color: #1b4bc7;">Drafting the Cube:</span></h3>
+<p>Once the packs are created, randomly deal 8 packs to each player.  The Draft Proceeds as follows:</p>
+<ol>
+<li>Each player simultaneously opens 1 pack, without showing the contents to the other player.</li>
+<li>Each player selects 1 Card from their pack.</li>
+<li>Players swap the current pack with the other player</li>
+<li>Each player selects 2 Cards from the pack.</li>
+<li>Players swap the current pack back with the other player</li>
+<li>Each player selects 2 Final Cards from the pack.</li>
+<li>The remaining 2 cards are set aside.</li>
+<li>Repeat this until all 8 Packs are drafted</li>
+<li>Players may now swap cards to add as many <strong>Unlimited</strong> Locations from the group pool as they desire (or as agreed).</li>
+<li>Play 40 card draft WARS as normal.</li>
+</ol>
+<p> </p>
+<p><span style="color: #1b4bc7;"><em>This format is based on an article for MtG from <a href="https://articles.starcitygames.com/magic-the-gathering/premium/the-proper-way-to-do-two-player-cube-drafts/" target="_blank" rel="noopener noreferrer" style="color: #1b4bc7;">StarCity Games.</a></em></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Format: Cube Draft</title>
+        <author>
+            <name>JS</name>
+        </author>
+        <link href="https://warstcg.org/format-cube-draft-2/"/>
+        <id>https://warstcg.org/format-cube-draft-2/</id>
+        <media:content url="https://warstcg.org/media/posts/28/Incursion-Earther-Blockade.webp" medium="image" />
+            <category term="draft"/>
+            <category term="deckbuilding"/>
+
+        <updated>2026-03-12T09:47:13-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://warstcg.org/media/posts/28/Incursion-Earther-Blockade.webp" alt="" />
+                    Cubes are a way to recreate the sealed drafting experience without purchasing&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://warstcg.org/media/posts/28/Incursion-Earther-Blockade.webp" class="type:primaryImage" alt="" /></p>
+                <p>Cubes are a way to recreate the sealed drafting experience without purchasing new sealed product.  A Cube is created from a large pool of cards and then packaged into "boosters" to then be drafted.  A variety of themes and fun ideas can be integrated into cubes such as limited factions, limited rarity, set restrictions and so on.</p>
+<h2>Overview</h2>
+<p>Cubes are a fun alternate format.  When constructing a cube, you and your group should communicate and establish the rules and guidelines you wish to follow. If you are creating a cube for an event, be sure to clearly communicate the rules and guidelines before the draft begins.</p>
+<h2>Standard Cubes</h2>
+<p>For the most standard cube, organize a sufficient pool of cards. The majority of these will be common. The aim is to recreate the traditional booster experience as best as possible.  Small, opaque style envelopes can be useful to initially hold your "packs".</p>
+<p>It is recommended to organize a Group collection of <strong>Unlimited</strong> Locations for use during cube draft play.</p>
+<ul>
+<li>Sort cards by Rarity (Common, Uncommon, Rare)
+<ul>
+<li>It may be desirable to set Locations aside to ensure an even spread as well</li>
+</ul>
+</li>
+<li>Shuffle the card types well</li>
+<li>Distribute them into your "packs":
+<ul>
+<li>1 Rare</li>
+<li>3 Uncommons</li>
+<li>10 Commons</li>
+<li>1 Location</li>
+</ul>
+</li>
+</ul>
+<h2>Draft</h2>
+<p>Standard Draft rules should be followed typically.</p>
+<ul>
+<li>3 Packs per each player in Draft</li>
+<li>No note taking</li>
+<li>Start Draft going Clockwise and alternate each time</li>
+<li>See the <a href="https://warstcg.org/sealed-and-draft-play/" target="_blank" rel="noopener noreferrer">Sealed &amp; Draft Play</a> from the <a href="https://warstcg.org/tournament-resources/" target="_blank" rel="noopener noreferrer">Tournament Rules</a></li>
+</ul>
+<h2>Deck Construction</h2>
+<p>Each player then has 30 minutes to construct a deck.  Deck construction rules are modified for Draft/Cube play:</p>
+<ul>
+<li>Decks will be 40 cards exactly</li>
+<li>Normal 4 copies of card title limit does NOT apply</li>
+<li>Players may add any number of <strong>Unlimited</strong> Locations from the Group Pool</li>
+<li>Remaining draft cards should be set aside in a "Sideboard"
+<ul>
+<li>If playing in rounds - players may alter decks from their Sideboard between rounds or matches.</li>
+</ul>
+</li>
+</ul>
+<h2>Having Fun</h2>
+<p>Cubes are a great way to explore different ideas in play.  You should come up with weird and zany ideas to mix things up and explore concepts.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Adapting to the Snap Switch</title>
+        <author>
+            <name>JS</name>
+        </author>
+        <link href="https://warstcg.org/adapting-to-the-snap-switch/"/>
+        <id>https://warstcg.org/adapting-to-the-snap-switch/</id>
+        <media:content url="https://warstcg.org/media/posts/26/Incursion-Earther-Orbital-Bombardment.webp" medium="image" />
+            <category term="throwback"/>
+            <category term="strategy"/>
+            <category term="deckbuilding"/>
+
+        <updated>2026-03-12T07:40:38-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://warstcg.org/media/posts/26/Incursion-Earther-Orbital-Bombardment.webp" alt="" />
+                    This is the second in a series of throwback articles. These were&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://warstcg.org/media/posts/26/Incursion-Earther-Orbital-Bombardment.webp" class="type:primaryImage" alt="" /></p>
+                <p class="align-center"><span style="color: #1b4bc7;"><em>This is the second in a series of throwback articles.  These were originally posted to Deciphers Page and Forums.  Credits will be given when I can locate them.</em></span></p>
+<p>For those of you that did not make it out to the Vegas Open, it was a great weekend. Lots of prizes and lots of fun were had by all that attended.  I also learned a lot in my few days in Sin City, after spending close to 30 hrs drafting over two days there I think I have learned how to draft much better than I did before...I hope so at least.  I mean really, 30 hrs spent doing anything should make you a master at it, except knitting, knitting is tricky stuff.  The other thing that I learned on the weekend was the fact that nearly everyone was talking about the <a href="https://warstcg.org//img/2/WARS-EN02081.jpg" target="_blank" rel="noopener noreferrer">Snap Switch</a> deck.  Most were commenting <br>that <a href="https://warstcg.org//img/1/WARS-EN01043.jpg" target="_blank" rel="noopener noreferrer">Shift in Tactics</a> should be changed, and many wanted to ban <a href="https://warstcg.org//img/2/WARS-EN02137.jpg" target="_blank" rel="noopener noreferrer">Rousing Leap</a>.  In either case much of the talk of the weekend revolved around this deck.  There was a few people playing it in the constructed tournaments that were run and you can believe that it will rear its head at most major events this summer.  In order to prepare for this most of my constructed decks will probably run a few cards dedicated to taking down this monster but not too many that it will take away from the deck strategy itself.</p>
+<p>For those of you out there that may not be aware of the <a href="https://warstcg.org//img/2/WARS-EN02081.jpg" target="_blank" rel="noopener noreferrer">Snap Switch</a> deck, it revolves around drawing a monster hand with <a href="https://warstcg.org//img/2/WARS-EN02060.jpg" target="_blank" rel="noopener noreferrer">Begging for Mercy</a>, then dropping a lone Kizen with a weapon to fight, pumping up the defense of said Kizen via <a href="https://warstcg.org//img/1/WARS-EN01011.jpg" target="_blank" rel="noopener noreferrer">Collaborative strike</a><br> or <a href="https://warstcg.org//img/1/WARS-EN01002.jpg" target="_blank" rel="noopener noreferrer">Anticipation</a>, taking them all back into hand with <a href="https://warstcg.org//img/2/WARS-EN02137.jpg" target="_blank" rel="noopener noreferrer">Rousing Leap</a> and repeating until their defense is very large, then <a href="https://warstcg.org//img/2/WARS-EN02081.jpg" target="_blank" rel="noopener noreferrer">Snap Switch</a> their defense and tactics and playing <a href="https://warstcg.org//img/1/WARS-EN01043.jpg" target="_blank" rel="noopener noreferrer">Shift in Tactics</a> to make their battle destiny whatever their defense was, usually in the area of about 70 giving them a power of 100+ and ending the game. Cards that can hurt this <br>deck are <a href="https://warstcg.org//img/1/WARS-EN01180.jpg" target="_blank" rel="noopener noreferrer">Easy Prey</a>, which gives them no battle destiny, however they still get their power (which is usually around 30), so that is not the greatest. There is <a href="https://warstcg.org//img/2/WARS-EN02068.jpg" target="_blank" rel="noopener noreferrer">Do Not Push</a> that makes all their interrupts cost 3 more energy, but that card is discarded after one turn so even if you have all four in hand your opponent will just wait until that card is not on the table.  <a href="https://warstcg.org//img/1/WARS-EN01285.jpg" target="_blank" rel="noopener noreferrer">Overburdened</a> is one of the best defenses against this deck, and a few <a href="https://warstcg.org//img/1/WARS-EN01285.jpg" target="_blank" rel="noopener noreferrer">Overburdened</a> (lost) can shut this beast down.  Still, you know your opponent will have <a href="https://warstcg.org//img/1/WARS-EN01161.jpg" target="_blank" rel="noopener noreferrer">Trumped</a> for protection so you will need a handful of <a href="https://warstcg.org//img/1/WARS-EN01161.jpg" target="_blank" rel="noopener noreferrer">Trumped</a> yourself in order to win <br>that war. Most decks use at least a few copies of <a href="https://warstcg.org//img/1/WARS-EN01285.jpg" target="_blank" rel="noopener noreferrer">Overburdened</a> and always four <a href="https://warstcg.org//img/1/WARS-EN01161.jpg" target="_blank" rel="noopener noreferrer">Trumped</a> anyhow, so it is easy to use those as defenses against the <a href="https://warstcg.org//img/2/WARS-EN02081.jpg" target="_blank" rel="noopener noreferrer">Snap Switch</a> deck, however there is one other card that splashes into most decks and can make a world of difference - <a href="https://warstcg.org//img/1/WARS-EN01123.jpg" target="_blank" rel="noopener noreferrer">Faded</a>.</p>
+<p>Playing <a href="https://warstcg.org//img/1/WARS-EN01123.jpg" target="_blank" rel="noopener noreferrer">Faded</a> on the opponents lone Kizen means they cannot target him with any cards and leave him helpless.  In order to make this work you have to use the timing system to your advantage.  When you see them play their Kizen down you know the fight is coming; hopefully you have a decent hand with some <a href="https://warstcg.org//img/1/WARS-EN01161.jpg" target="_blank" rel="noopener noreferrer">Trumped</a> and <a href="https://warstcg.org//img/1/WARS-EN01285.jpg" target="_blank" rel="noopener noreferrer">Overburdened</a> and at least one <a href="https://warstcg.org//img/1/WARS-EN01123.jpg" target="_blank" rel="noopener noreferrer">Faded</a>.  Play the <a href="https://warstcg.org//img/1/WARS-EN01285.jpg" target="_blank" rel="noopener noreferrer">Overburdened</a> as soon as they deploy their Kizen and let them trump them, you don’t want to get into a Trump war until you are sure that you can win.  Once they initiate the battle play <a href="https://warstcg.org//img/1/WARS-EN01123.jpg" target="_blank" rel="noopener noreferrer">Faded</a> as a reaction to that while the battle is pending.  This way they cannot play any of their interrupts that play during a battle because it is still pending and not actually in a battle phase yet. They will try and Trump it, but because you baited some of their <a href="https://warstcg.org//img/1/WARS-EN01161.jpg" target="_blank" rel="noopener noreferrer">Trumped</a> with <a href="https://warstcg.org//img/1/WARS-EN01285.jpg" target="_blank" rel="noopener noreferrer">Overburdened</a> you should be able to win the trump war and then the battle will proceed and you can trounce the lone Kizen that they deployed.  If you don’t manage to get the right cards that you need in hand <a href="https://warstcg.org//img/1/WARS-EN01195.jpg" target="_blank" rel="noopener noreferrer">Premeditated Reaction</a> is a great card for protecting against the combo as well.  </p>
+<p><br>To a deck that I had built previously, I just added a few <a href="https://warstcg.org//img/1/WARS-EN01123.jpg" target="_blank" rel="noopener noreferrer">Faded</a> and the <a href="https://warstcg.org//img/1/WARS-EN01195.jpg" target="_blank" rel="noopener noreferrer">Premeditated Reaction</a> and that was really all I needed to change.  This is a space-oriented deck focusing on keeping ships on the table with immunity to attrition and using <a href="https://warstcg.org//img/2/WARS-EN02103.jpg" target="_blank" rel="noopener noreferrer">Protective Fire</a> to give immunity to the ships that don’t have it.  <a href="https://warstcg.org//img/1/WARS-EN01145.jpg" target="_blank" rel="noopener noreferrer">Price of the Game</a> is included to lower the destiny of the opponent, either to make sure their <a href="https://warstcg.org//img/1/WARS-EN01146.jpg" target="_blank" rel="noopener noreferrer">Racing Sloops</a> don’t invert or to make sure they have no attrition when they are fighting against <a href="https://warstcg.org//img/2/WARS-EN02096.jpg" target="_blank" rel="noopener noreferrer">Dhanake</a>. <a href="https://warstcg.org//img/1/WARS-EN01171.jpg" target="_blank" rel="noopener noreferrer">Cerebral Incursion</a> also helps in space to make sure you are not losing ships to attrition.</p>
+<h3>Locations:</h3>
+<p>1 <a href="https://warstcg.org//img/1/WARS-EN01321.jpg" target="_blank" rel="noopener noreferrer">Seyal/Light Side</a>(starting) <br>1 <a href="https://warstcg.org//img/1/WARS-EN01318.jpg" target="_blank" rel="noopener noreferrer">Mercury/Untapped Planet</a> <br>1 <a href="https://warstcg.org//img/1/WARS-EN01326.jpg" target="_blank" rel="noopener noreferrer">Vesta/Coveted Rock</a> <br>1 <a href="https://warstcg.org//img/1/WARS-EN01323.jpg" target="_blank" rel="noopener noreferrer">Themis/Mobile Asteroid</a> <br>2 <a href="https://warstcg.org//img/2/WARS-EN02159.jpg" target="_blank" rel="noopener noreferrer">Jupiter/Approach Route</a> <br>2 <a href="https://warstcg.org//img/1/WARS-EN01304.jpg" target="_blank" rel="noopener noreferrer">Ganymede/Harvesting Camp</a><br>1 <a href="https://warstcg.org//img/1/WARS-EN01314.jpg" target="_blank" rel="noopener noreferrer">Ganymede/Vantage Point</a> <br>1 <a href="https://warstcg.org//img/1/WARS-EN01303.jpg" target="_blank" rel="noopener noreferrer">Ganymede/Frontier Camp</a> <br>1 <a href="https://warstcg.org//img/2/WARS-EN02156.jpg" target="_blank" rel="noopener noreferrer">Ganymede/Orbital Expanse</a></p>
+<h3>Characters:</h3>
+<p>2 <a href="https://warstcg.org//img/2/WARS-EN02096.jpg" target="_blank" rel="noopener noreferrer">Dhanake-Tilak</a> <br>2 <a href="https://warstcg.org//img/1/WARS-EN01133.jpg" target="_blank" rel="noopener noreferrer">Jack Wilgress</a> <br>2 <a href="https://warstcg.org//img/1/WARS-EN01158.jpg" target="_blank" rel="noopener noreferrer">The Gambler</a> <br>2 <a href="https://warstcg.org//img/1/WARS-EN01P04.jpg" target="_blank" rel="noopener noreferrer">Ranarti-Anant</a> <br>2 <a href="https://warstcg.org//img/1/WARS-EN01162.jpg" target="_blank" rel="noopener noreferrer">Two-Way Berson</a> <br>1 <a href="https://warstcg.org//img/2/WARS-EN02058.jpg" target="_blank" rel="noopener noreferrer">Aris Thantos</a> <br>1 <a href="https://warstcg.org//img/2/WARS-EN02104.jpg" target="_blank" rel="noopener noreferrer">Rantosh-Anant</a> <br>1 <a href="https://warstcg.org//img/2/WARS-EN02088.jpg" target="_blank" rel="noopener noreferrer">Ashmahi-Anant</a> <br>1 <a href="https://warstcg.org//img/2/WARS-EN02P02.jpg" target="_blank" rel="noopener noreferrer">Killer Cait Grimalkin</a> <br>1 <a href="https://warstcg.org//img/2/WARS-EN02059.jpg" target="_blank" rel="noopener noreferrer">Battleaxe Boden</a></p>
+<h3>Ships:</h3>
+<p>2 <a href="https://warstcg.org//img/1/WARS-EN01214.jpg" target="_blank" rel="noopener noreferrer">Vatarva-Sudeva</a> <br>1 <a href="https://warstcg.org//img/2/WARS-EN02063.jpg" target="_blank" rel="noopener noreferrer">Cat’s Claw</a> <br>4 <a href="https://warstcg.org//img/2/WARS-EN02108.jpg" target="_blank" rel="noopener noreferrer">Swiftwave Attacker</a> <br>2 <a href="https://warstcg.org//img/1/WARS-EN01216.jpg" target="_blank" rel="noopener noreferrer">Vishal Quarrel</a> <br>1 <a href="https://warstcg.org//img/1/WARS-EN01131.jpg" target="_blank" rel="noopener noreferrer">Hawk’s Wing</a></p>
+<h3>Interrupts/Orders:</h3>
+<p>4 <a href="https://warstcg.org//img/1/WARS-EN01161.jpg" target="_blank" rel="noopener noreferrer">Trumped</a> <br>4 <a href="https://warstcg.org//img/1/WARS-EN01285.jpg" target="_blank" rel="noopener noreferrer">Overburdened</a> <br>4 <a href="https://warstcg.org//img/1/WARS-EN01280.jpg" target="_blank" rel="noopener noreferrer">Expansion</a> <br>2 <a href="https://warstcg.org//img/1/WARS-EN01197.jpg" target="_blank" rel="noopener noreferrer">Pursuit Just Behind</a> <br>3 <a href="https://warstcg.org//img/1/WARS-EN01123.jpg" target="_blank" rel="noopener noreferrer">Faded</a> <br>2 <a href="https://warstcg.org//img/2/WARS-EN02103.jpg" target="_blank" rel="noopener noreferrer">Protective Fire</a></p>
+<h3>Assets:</h3>
+<p>2 <a href="https://warstcg.org//img/1/WARS-EN01145.jpg" target="_blank" rel="noopener noreferrer">Price of the Game</a> <br>2 <a href="https://warstcg.org//img/1/WARS-EN01195.jpg" target="_blank" rel="noopener noreferrer">Premeditated Reaction</a> <br>1 <a href="https://warstcg.org//img/1/WARS-EN01171.jpg" target="_blank" rel="noopener noreferrer">Cerebral Incursion</a></p>
+<p>The deck isn’t designed as a deck just to kill the <a href="https://warstcg.org//img/2/WARS-EN02081.jpg" target="_blank" rel="noopener noreferrer">Snap Switch</a> deck - its just a normal deck with a few cards added to make sure it can handle the <a href="https://warstcg.org//img/2/WARS-EN02081.jpg" target="_blank" rel="noopener noreferrer">Snap Switch</a> if and when it should come up against it.  You might think that throwing in cards just to combat one very specific deck type is a little extreme, but after you go from 40 cards in your reserve to game over in one battle you might see things in a different light. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Winning with Weakness: The power of commons and uncommons in the WARS TCG</title>
         <author>

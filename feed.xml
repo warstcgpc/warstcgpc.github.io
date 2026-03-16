@@ -3,7 +3,7 @@
     <title>WARS TCG PC</title>
     <link href="https://warstcg.org/feed.xml" rel="self" />
     <link href="https://warstcg.org" />
-    <updated>2026-03-15T17:29:31-07:00</updated>
+    <updated>2026-03-15T22:45:25-07:00</updated>
     <author>
         <name>JS</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://warstcg.org/online-league-event-01-2026-series/"/>
         <id>https://warstcg.org/online-league-event-01-2026-series/</id>
+        <media:content url="https://warstcg.org/media/posts/31/Incursion_BoxArt_v2.webp" medium="image" />
             <category term="events"/>
 
         <updated>2026-03-15T17:03:58-07:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://warstcg.org/media/posts/31/Incursion_BoxArt_v2.webp" alt="" />
                     Welcome This is the first online event that is meant to help&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://warstcg.org/media/posts/31/Incursion_BoxArt_v2.webp" class="type:primaryImage" alt="" /></p>
                 <h2><span style="color: #1b4bc7;">Welcome</span></h2>
 <p>This is the first online event that is meant to help beginners with gradually learning this game while at the same time giving more seasoned players an opportunity to explore a metagame environment that they may have not experienced in a long time or at all.<br><br>To promote community engagement in these events, spectating, screen recording or the use of Discord streaming is encouraged.  Share photos and make posts about the games.</p>
 <p>Games will be played on DragnCards.com using the WARS Trading Card Game Plugin. See the tutorial <a href="https://warstcg.org/dragncards-tutorial/" target="_blank" rel="noopener noreferrer">DragnCards Tutorial</a>.</p>

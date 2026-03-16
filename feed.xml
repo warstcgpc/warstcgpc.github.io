@@ -3,12 +3,55 @@
     <title>WARS TCG PC</title>
     <link href="https://warstcg.org/feed.xml" rel="self" />
     <link href="https://warstcg.org" />
-    <updated>2026-03-12T12:04:09-07:00</updated>
+    <updated>2026-03-15T17:03:58-07:00</updated>
     <author>
         <name>JS</name>
     </author>
     <id>https://warstcg.org</id>
 
+    <entry>
+        <title>Online League Event 01 - 2026 Series</title>
+        <author>
+            <name>JS</name>
+        </author>
+        <link href="https://warstcg.org/online-league-event-01-2026-series/"/>
+        <id>https://warstcg.org/online-league-event-01-2026-series/</id>
+            <category term="events"/>
+
+        <updated>2026-03-15T17:03:58-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Welcome This is the first online event that is meant to help&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2><span style="color: #1b4bc7;">Welcome</span></h2>
+<p>This is the first online event that is meant to help beginners with gradually learning this game while at the same time giving more seasoned players an opportunity to explore a metagame environment that they may have not experienced in a long time or at all.<br><br>To promote community engagement in these events, spectating, screen recording or the use of Discord streaming is encouraged.  Share photos and make posts about the games.</p>
+<p>Games will be played on DragnCards.com using the WARS Trading Card Game Plugin. See the tutorial <a href="https://warstcg.org/dragncards-tutorial/" target="_blank" rel="noopener noreferrer">DragnCards Tutorial</a>.</p>
+<h2><span style="color: #1b4bc7;">Details</span></h2>
+<p><br>This event will be a standard Decipher Style tournament Pairing.<br><br><strong>- Format:</strong> The tournament will consist of several rounds of standard Incursion Starter games, with each round lasting two weeks. A tentative schedule for the overall event is provided below and will be finalized after registration is closed.<br><br><strong>- Deck Construction:</strong> Players will be randomly assigned a Starter from the Incursion set, as well as 3 Randomly Generated Booster Card Lists.  You will construct your deck using these cards and submit your deck list for that round.  Players will be allowed to modify their decks in between Rounds using this list of cards, but must submit an updated deck list.<br><br><strong>- Round and Game duration:</strong> Round will last two weeks, during which players will have to agree on a time to play their games. Players are free to play as long as they need to, pausing and resuming games if needed.</p>
+<p><strong>-Reporting and Scoring:</strong> Games will be reported to the organizer by both players.</p>
+<ul>
+<li>When completing the game, before closing room and declaring win state – both players should take a screenshot of the game.</li>
+<li>Player 1 should choose Menu -&gt; Download -&gt; Game State.</li>
+<li>Then choose Menu -&gt; Close Room -&gt; and Mark the appropriate Win Condition.
+<ul>
+<li>Full Win: You completed the game fully. Mark the winning player.</li>
+<li>Modified Win: You were not able to complete your game in the schedule. The player with more energy scores a Modified Win. Note the difference in Energy.</li>
+</ul>
+</li>
+<li>Post the Winner of the game with the screenshot you took, and the Gamestate file.
+<ul>
+<li>Both players should report to confirm results.</li>
+</ul>
+</li>
+</ul>
+<p><br><strong>- Communications:</strong> The primary communication platform for this event will be Discord.</p>
+<p><strong>- Registration:</strong> Players will be able to register via Discord.<br><br><strong>- Tutorials:</strong> The Online Play Tutorial is available at warstcg.org<br><br><strong>- Schedule:</strong><br>23 March - 6 April Registration and Deck(s) Construction<br>07 April - 20 April : Round 1<br>21 April - 4 May : Round 2<br>5 May - 18 May : Round 3<br>19 May - 1 June : Round 4<br>Extra rounds if needed</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> Basic Training, Part I: Energy</title>
         <author>

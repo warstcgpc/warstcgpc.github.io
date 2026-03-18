@@ -54,11 +54,10 @@
                 "name": "JS"
             },
             "tags": [
-                   "draft",
-                   "deckbuilding"
+                   "draft"
             ],
             "date_published": "2026-03-12T10:10:39-07:00",
-            "date_modified": "2026-03-12T10:50:07-07:00"
+            "date_modified": "2026-03-17T20:17:02-07:00"
         },
         {
             "id": "https://warstcg.org/format-cube-draft-2/",
@@ -71,11 +70,10 @@
                 "name": "JS"
             },
             "tags": [
-                   "draft",
-                   "deckbuilding"
+                   "draft"
             ],
             "date_published": "2026-03-12T09:47:13-07:00",
-            "date_modified": "2026-03-12T10:50:00-07:00"
+            "date_modified": "2026-03-17T20:17:08-07:00"
         },
         {
             "id": "https://warstcg.org/adapting-to-the-snap-switch/",

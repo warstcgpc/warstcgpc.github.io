@@ -3,7 +3,7 @@
     <title>WARS TCG PC</title>
     <link href="https://warstcg.org/feed.xml" rel="self" />
     <link href="https://warstcg.org" />
-    <updated>2026-03-15T22:45:25-07:00</updated>
+    <updated>2026-03-17T20:17:08-07:00</updated>
     <author>
         <name>JS</name>
     </author>
@@ -141,7 +141,6 @@
         <id>https://warstcg.org/format-2-player-minneapolis-cube-draft/</id>
         <media:content url="https://warstcg.org/media/posts/29/Incursion-Independent-Maverick-Bot.webp" medium="image" />
             <category term="draft"/>
-            <category term="deckbuilding"/>
 
         <updated>2026-03-12T10:10:39-07:00</updated>
             <summary type="html">
@@ -199,7 +198,6 @@
         <id>https://warstcg.org/format-cube-draft-2/</id>
         <media:content url="https://warstcg.org/media/posts/28/Incursion-Earther-Blockade.webp" medium="image" />
             <category term="draft"/>
-            <category term="deckbuilding"/>
 
         <updated>2026-03-12T09:47:13-07:00</updated>
             <summary type="html">

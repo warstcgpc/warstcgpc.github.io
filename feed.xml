@@ -3,7 +3,7 @@
     <title>WARS TCG PC</title>
     <link href="https://warstcg.org/feed.xml" rel="self" />
     <link href="https://warstcg.org" />
-    <updated>2026-03-17T20:17:08-07:00</updated>
+    <updated>2026-03-23T08:09:02-07:00</updated>
     <author>
         <name>JS</name>
     </author>
@@ -36,22 +36,34 @@
 <p><br>This event will be a standard Decipher Style tournament Pairing.<br><br><strong>- Format:</strong> The tournament will consist of several rounds of standard Incursion Starter games, with each round lasting two weeks. A tentative schedule for the overall event is provided below and will be finalized after registration is closed.<br><br><strong>- Deck Construction:</strong> Players will be randomly assigned a Starter from the Incursion set, as well as 3 Randomly Generated Booster Card Lists.  You will construct your deck using these cards and submit your deck list for that round.  Players will be allowed to modify their decks in between Rounds using this list of cards, but must submit an updated deck list.<br><br><strong>- Round and Game duration:</strong> Round will last two weeks, during which players will have to agree on a time to play their games. Players are free to play as long as they need to, pausing and resuming games if needed.</p>
 <p><strong>-Reporting and Scoring:</strong> Games will be reported to the organizer by both players.</p>
 <ul>
-<li>When completing the game, before closing room and declaring win state – both players should take a screenshot of the game.</li>
+<li>When completing the game, before closing room and declaring win state – <em>both players should take a screenshot of the game</em>.</li>
 <li>Player 1 should choose Menu -&gt; Download -&gt; Game State.</li>
 <li>Then choose Menu -&gt; Close Room -&gt; and Mark the appropriate Win Condition.
 <ul>
-<li>Full Win: You completed the game fully. Mark the winning player.</li>
-<li>Modified Win: You were not able to complete your game in the schedule. The player with more energy scores a Modified Win. Note the difference in Energy.</li>
+<li>Full Win: You completed the game fully. Mark the winning player.
+<ul>
+<li>Note Player 1 and Player 2 Energy (Total of cards in your Active, Used, and Reserve Piles)</li>
+</ul>
+</li>
+<li>Modified Win: You were not able to complete your game in the schedule. The player with more energy scores a Modified Win. 
+<ul>
+<li>Note Player 1 and Player 2 Energy (Total of cards in your Active, Used, and Reserve Piles)</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Post the Winner of the game with the screenshot you took, and the Gamestate file.
 <ul>
 <li>Both players should report to confirm results.</li>
+<li>Note Player 1 and Player 2 Energy Levels (Total of cards in your Active, Used, and Reserve Piles)</li>
+<li><span style="color: #1b4bc7;"><em>TIP: You can both count your energy and then manually update the tracker in the top before taking your screenshot as well for ease. (The automated part of this tracker is still a work in progress).</em></span></li>
+<li><figure class="post__image"><img loading="lazy"  src="https://warstcg.org/media/posts/31/scores.png" alt="" width="715" height="148" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://warstcg.org/media/posts/31/responsive/scores-xs.png 300w ,https://warstcg.org/media/posts/31/responsive/scores-sm.png 480w ,https://warstcg.org/media/posts/31/responsive/scores-md.png 768w ,https://warstcg.org/media/posts/31/responsive/scores-lg.png 1024w"></figure></li>
 </ul>
 </li>
+<li>EXAMPLE: <span style="color: #1b4bc7;"><em>"Round 1 - Player 1: Bob J Full Win: 32 Energy VS Player 2 Steve R: 0 Energy". and your opponent would confirm with their results "Round 2 - Player 2 Steve R: Full Loss: 0 Energy VS Player 1: Bob J: 32 Energy."</em></span></li>
 </ul>
 <p><br><strong>- Communications:</strong> The primary communication platform for this event will be Discord (Using the new <a href="https://discord.gg/qVUZkD5FqB" target="_blank" rel="noopener noreferrer">WARS Tcg Discord</a>)</p>
-<p><strong>- Registration:</strong> Players will be able to register via Discord.<br><br><strong>- Tutorials:</strong> The Online Play Tutorial is available at warstcg.org<br><br><strong>- Schedule:</strong><br>23 March - 6 April Registration and Deck(s) Construction<br>07 April - 20 April : Round 1<br>21 April - 4 May : Round 2<br>5 May - 18 May : Round 3<br>19 May - 1 June : Round 4<br>Extra rounds if needed</p>
+<p><strong>- Registration:</strong> Players will be able to register via Discord.<br><br><strong>- Tutorials:</strong> The Online Play Tutorial is available at warstcg.org<br><br><strong>- Schedule:</strong><br>23 March - 6 April Registration and Deck(s) Construction <em>(Deck assignments and booster contents will be randomly generated and distributed as quickly as possible via Discord PM).</em><br>07 April - 20 April : Round 1<br>21 April - 4 May : Round 2<br>5 May - 18 May : Round 3<br>19 May - 1 June : Round 4<br>Extra rounds if needed</p>
             ]]>
         </content>
     </entry>
